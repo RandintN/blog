@@ -1,3 +1,47 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://www.robsoncassiano.software/'
+languageCode = 'pt-BR'
+title = 'Robson Cassiano'
+theme = 'anatole'
+
+[params]
+title = "Robson Cassiano"
+author = "Robson Cassiano"
+description = "Sobre os ombros de gigantes"
+profilePicture = "images/robson-cassiano-profile.webp"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://linkedin.com/robson-cassiano-software"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "robson.cassiano@pm.me"
+
+[menu]
+
+[[menu.main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[menu.main]]
+name = "Posts"
+weight = 200
+identifier = "posts"
+url = "/post/"
+
+[[menu.main]]
+name = "Courses"
+weight = 300
+identifier = "courses"
+url = "/courses/"
+
+[[menu.main]]
+name = "About"
+weight = 400
+identifier = "about"
+url = "/about/"
+
