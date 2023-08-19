@@ -1,0 +1,11 @@
+[pt-br]
+contentDir   = "content/br"
+description  = "Sobre os ombros de gigantes"
+LanguageName = "BR"
+weight       = 1
+
+[en]
+contentDir   = "content/english"
+description  = "On the shoulders of giants"
+LanguageName = "US"
+weight       = 2

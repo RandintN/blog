@@ -1,0 +1,13 @@
+title                = "Robson Cassiano"
+author               = "Robson Cassiano"
+profilePicture       = "images/robson-cassiano-profile.webp"
+
+[[socialIcons]]
+icon  = "fab fa-linkedin"
+title = "Linkedin"
+url   = "https://linkedin.com/robson-cassiano-software"
+
+[[socialIcons]]
+icon  = "fas fa-envelope"
+title = "e-mail"
+url   = "robson.cassiano@pm.me"

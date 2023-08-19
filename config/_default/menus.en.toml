@@ -1,0 +1,36 @@
+[[main]]
+identifier = "home"
+name       = "Home"
+url        = "/en/"
+weight     = 100
+
+[[main]]
+identifier = "articles"
+name       = "Articles"
+url        = "/en/articles/"
+weight     = 200
+
+[[main]]
+identifier = "about"
+name       = "About"
+url        = "/en/about/"
+weight     = 500
+
+[[main]]
+name = "Courses"
+weight = 400
+identifier = "courses"
+
+[[main]]
+name = "Java"
+weight = 410
+identifier = "java"
+url = "/en/java/"
+parent = "courses"
+
+[[main]]
+name = "Kotlin"
+weight = 420
+identifier = "kotlin"
+url = "/en/kotlin/"
+parent = "courses"
