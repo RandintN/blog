@@ -1,47 +1,66 @@
-baseURL = 'https://www.robsoncassiano.software/'
+baseURL      = 'https://www.robsoncassiano.software/'
 languageCode = 'pt-BR'
-title = 'Robson Cassiano'
-theme = 'anatole'
+DefaultContentLanguage = "pt-BR"
+title        = 'Robson Cassiano'
+theme        = 'anatole'
 
 [params]
-title = "Robson Cassiano"
-author = "Robson Cassiano"
-description = "Sobre os ombros de gigantes"
+title          = "Robson Cassiano"
+author         = "Robson Cassiano"
 profilePicture = "images/robson-cassiano-profile.webp"
 
 [[params.socialIcons]]
-icon = "fab fa-linkedin"
+icon  = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://linkedin.com/robson-cassiano-software"
+url   = "https://linkedin.com/robson-cassiano-software"
 
 [[params.socialIcons]]
-icon = "fas fa-envelope"
+icon  = "fas fa-envelope"
 title = "e-mail"
-url = "robson.cassiano@pm.me"
+url   = "robson.cassiano@pm.me"
 
-[menu]
+[Languages.pt-BR]
+description  = "Sobre os ombros de gigantes"
+LanguageName = "BR"
+weight       = 1
 
-[[menu.main]]
-name = "Home"
+[Languages.en]
+description  = "On the shoulders of giants"
+LanguageName = "US"
+weight       = 2
+
+[[Languages.en.menu.main]]
 identifier = "home"
-weight = 100
-url = "/"
+name       = "Home"
+url        = "/en/"
+weight     = 100
 
-[[menu.main]]
-name = "Posts"
-weight = 200
+[[Languages.en.menu.main]]
 identifier = "posts"
-url = "/post/"
+name       = "Articles"
+url        = "/en/articles/"
+weight     = 200
 
-[[menu.main]]
-name = "Courses"
-weight = 300
-identifier = "courses"
-url = "/courses/"
-
-[[menu.main]]
-name = "About"
-weight = 400
+[[Languages.en.menu.main]]
 identifier = "about"
-url = "/about/"
+name       = "About"
+url        = "/en/about/"
+weight     = 300
 
+[[Languages.pt-BR.menu.main]]
+identifier = "home"
+name       = "Home"
+url        = "/pt-BR/"
+weight     = 100
+
+[[Languages.pt-BR.menu.main]]
+identifier = "articles"
+name       = "Artigos"
+url        = "/pt-BR/articles/"
+weight     = 200
+
+[[Languages.pt-BR.menu.main]]
+identifier = "about"
+name       = "Sobre mim"
+url        = "/pt-BR/about/"
+weight     = 300
