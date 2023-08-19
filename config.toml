@@ -20,11 +20,13 @@ title = "e-mail"
 url   = "robson.cassiano@pm.me"
 
 [Languages.pt-BR]
+contentDir = "content/brazilian"
 description  = "Sobre os ombros de gigantes"
 LanguageName = "BR"
 weight       = 1
 
 [Languages.en]
+contentDir = "content/english"
 description  = "On the shoulders of giants"
 LanguageName = "US"
 weight       = 2
@@ -42,10 +44,16 @@ url        = "/en/articles/"
 weight     = 200
 
 [[Languages.en.menu.main]]
+identifier = "courses"
+name       = "Courses"
+url        = "/en/courses/"
+weight     = 300
+
+[[Languages.en.menu.main]]
 identifier = "about"
 name       = "About"
 url        = "/en/about/"
-weight     = 300
+weight     = 400
 
 [[Languages.pt-BR.menu.main]]
 identifier = "home"
@@ -60,7 +68,13 @@ url        = "/pt-BR/articles/"
 weight     = 200
 
 [[Languages.pt-BR.menu.main]]
+identifier = "courses"
+name       = "Cursos"
+url        = "/pt-BR/cursos/"
+weight     = 300
+
+[[Languages.pt-BR.menu.main]]
 identifier = "about"
 name       = "Sobre mim"
 url        = "/pt-BR/about/"
-weight     = 300
+weight     = 400
