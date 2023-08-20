@@ -1,10 +1,21 @@
-baseURL                = 'https://www.robsoncassiano.software/'
+baseURL = 'https://www.robsoncassiano.software/'
 defaultContentLanguage = "pt-br"
-enableRobotsTXT        = true
-languageCode           = 'pt-BR'
-summarylength          = 50
-title                  = 'On the shoulders of giants'
-theme                  = 'anatole'
+enableRobotsTXT = true
+languageCode = 'pt-BR'
+summarylength = 50
+title = 'On the shoulders of giants'
+theme = 'anatole'
+
+[related]
+includeNewer = true
+threshold = 80
+toLower = true
+[[related.indices]]
+name = 'keywords'
+weight = 100
+[[related.indices]]
+name = 'tags'
+weight = 80
 
 # Google Analytics
 #googleAnalytics = "UA-123-45"

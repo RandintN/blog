@@ -1,6 +1,8 @@
 title                = "Robson Cassiano"
 author               = "Robson Cassiano"
 profilePicture       = "images/robson-cassiano-profile.webp"
+relatedPosts = true
+numberOfRelatedPosts = 2
 
 [[socialIcons]]
 icon  = "fab fa-linkedin"
