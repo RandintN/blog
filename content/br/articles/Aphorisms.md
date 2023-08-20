@@ -6,8 +6,6 @@ description = "Aforismos: Uma Jornada ao Coração da Sabedoria Humana"
 tags = ["philosophy", "aphorisms"]
 +++
 
-# Aforismos: Uma Jornada ao Coração da Sabedoria Humana
-
 Ao longo das marés flutuantes da existência humana, houve poucos tesouros literários tão notáveis e enigmáticos quanto os aforismos. Essas pepitas de sabedoria destilada, muitas vezes aninhadas dentro das páginas de livros, resistiram ao teste do tempo, capturando perpetuamente os corações e mentes daqueles que se atrevem a se aventurar em suas profundidades.
 
 ## A Elegância dos Aforismos
