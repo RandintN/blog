@@ -31,4 +31,4 @@ A humildade, ao recusar a aceitação passiva de ideias erradas ou falsas, promo
 
 **Conclusão**
 
-Em conclusão, vamos nos inspirar no humus, abraçando a humildade como solo fértil em nossas vidas. Vamos nutrir nossas mentes com humildade, permitindo que ela seja o humus do qual brotam a flora da sabedoria, compaixão e graça. Assim como o humus nutre a vida, a humildade nutre o crescimento de ideias e ensinamentos virtuosos, nos lembrando que, na tranquila abraço da humildade, encontramos o espaço para o melhor de nós florescer.
+Em conclusão, vamos nos inspirar no humus, abraçando a humildade como solo fértil em nossas vidas. Vamos nutrir nossas mentes com humildade, permitindo que ela seja o humus do qual brotam a flora da sabedoria, compaixão e graça. Assim como o humus nutre a vida, a humildade nutre o crescimento de ideias e ensinamentos virtuosos, nos lembrando que, no tranquilo abraço da humildade, encontramos o espaço para o melhor de nós florescer.
