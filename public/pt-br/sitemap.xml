@@ -2,54 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.robsoncassiano.software/tags/article/</loc>
-    <lastmod>2023-08-20T10:01:11-03:00</lastmod>
-  </url><url>
-    <loc>https://www.robsoncassiano.software/articleblah/</loc>
-    <lastmod>2023-08-20T10:01:11-03:00</lastmod>
-  </url><url>
-    <loc>https://www.robsoncassiano.software/categories/</loc>
-    <lastmod>2023-08-20T10:01:11-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.robsoncassiano.software/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://www.robsoncassiano.software/categories/"
-                />
-  </url><url>
-    <loc>https://www.robsoncassiano.software/</loc>
-    <lastmod>2023-08-20T10:01:11-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.robsoncassiano.software/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://www.robsoncassiano.software/"
-                />
-  </url><url>
-    <loc>https://www.robsoncassiano.software/categories/philosophy/</loc>
-    <lastmod>2023-08-20T10:01:11-03:00</lastmod>
-  </url><url>
-    <loc>https://www.robsoncassiano.software/tags/</loc>
-    <lastmod>2023-08-20T10:01:11-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.robsoncassiano.software/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://www.robsoncassiano.software/tags/"
-                />
-  </url><url>
     <loc>https://www.robsoncassiano.software/kotlin/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -76,8 +28,34 @@
                 href="https://www.robsoncassiano.software/java/"
                 />
   </url><url>
+    <loc>https://www.robsoncassiano.software/articles/aphorisms/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robsoncassiano.software/en/articles/aphorisms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.robsoncassiano.software/articles/aphorisms/"
+                />
+  </url><url>
+    <loc>https://www.robsoncassiano.software/tags/aphorisms/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robsoncassiano.software/en/tags/aphorisms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.robsoncassiano.software/tags/aphorisms/"
+                />
+  </url><url>
     <loc>https://www.robsoncassiano.software/articles/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -87,6 +65,58 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://www.robsoncassiano.software/articles/"
+                />
+  </url><url>
+    <loc>https://www.robsoncassiano.software/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robsoncassiano.software/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.robsoncassiano.software/"
+                />
+  </url><url>
+    <loc>https://www.robsoncassiano.software/tags/philosophy/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robsoncassiano.software/en/tags/philosophy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.robsoncassiano.software/tags/philosophy/"
+                />
+  </url><url>
+    <loc>https://www.robsoncassiano.software/tags/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robsoncassiano.software/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.robsoncassiano.software/tags/"
+                />
+  </url><url>
+    <loc>https://www.robsoncassiano.software/articles/humility/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robsoncassiano.software/en/articles/humility/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.robsoncassiano.software/articles/humility/"
                 />
   </url><url>
     <loc>https://www.robsoncassiano.software/tags/java/</loc>
@@ -152,6 +182,44 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://www.robsoncassiano.software/about/"
+                />
+  </url><url>
+    <loc>https://www.robsoncassiano.software/tags/models/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robsoncassiano.software/en/tags/models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.robsoncassiano.software/tags/models/"
+                />
+  </url><url>
+    <loc>https://www.robsoncassiano.software/articles/mental-models/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robsoncassiano.software/en/articles/mental-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.robsoncassiano.software/articles/mental-models/"
+                />
+  </url><url>
+    <loc>https://www.robsoncassiano.software/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robsoncassiano.software/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.robsoncassiano.software/categories/"
                 />
   </url>
 </urlset>

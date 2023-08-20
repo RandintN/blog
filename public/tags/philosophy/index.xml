@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>philosophy on On the shoulders of giants</title>
+    <link>https://www.robsoncassiano.software/tags/philosophy/</link>
+    <description>Recent content in philosophy on On the shoulders of giants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robsoncassiano.software/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aforismos: Uma Jornada ao Coração da Sabedoria Humana</title>
+      <link>https://www.robsoncassiano.software/articles/aphorisms/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.robsoncassiano.software/articles/aphorisms/</guid>
+      
+        <description>Aforismos: Uma Jornada ao Coração da Sabedoria Humana</description>
+      
+    </item>
+    
+    <item>
+      <title>Humildade: Um Solo Fértil para o Bem</title>
+      <link>https://www.robsoncassiano.software/articles/humility/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.robsoncassiano.software/articles/humility/</guid>
+      
+        <description>Humildade: Um Solo Fértil para o Bem</description>
+      
+    </item>
+    
+  </channel>
+</rss>
