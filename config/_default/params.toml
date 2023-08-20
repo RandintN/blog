@@ -5,7 +5,7 @@ profilePicture       = "images/robson-cassiano-profile.webp"
 [[socialIcons]]
 icon  = "fab fa-linkedin"
 title = "Linkedin"
-url   = "https://linkedin.com/robson-cassiano-software"
+url   = "https://www.linkedin.com/in/robsoncassiano-software"
 
 [[socialIcons]]
 icon  = "fas fa-envelope"
