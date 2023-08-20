@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html
+  dir="ltr"
+  lang="pt-br"
+  data-theme=""
+  
+    class="html theme--light"
+  
+><head>
+  <title>
+    Robson Cassiano
+        |
+        Kotlin vs Java: Como carros automáticos vs Carros Manuais
+      
+
+    
+
+  </title>
+
+  
+  <meta charset="utf-8" /><meta name="generator" content="Hugo 0.117.0"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="author" content="Robson Cassiano" />
+  <meta
+    name="description"
+    content="Com Kotlin, você pode realizar mais, em menos tempo."
+  />
+  
+  
+    
+    
+    <link
+      rel="stylesheet"
+      href="/scss/main.min.1147aa5bacb4bce677a0e264073829caedb82fd18ea07a5f1d80521f539d1c45.css"
+      integrity="sha256-EUeqW6y0vOZ3oOJkBzgpyu24L9GOoHpfHYBSH1OdHEU="
+      crossorigin="anonymous"
+      type="text/css"
+    />
+  
+
+  
+  <link
+    rel="stylesheet"
+    href="/css/markupHighlight.min.73ccfdf28df555e11009c13c20ced067af3cb021504cba43644c705930428b00.css"
+    integrity="sha256-c8z98o31VeEQCcE8IM7QZ688sCFQTLpDZExwWTBCiwA="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/fontawesome.min.7f3c2281c7f965ce3c64888aa452793252a0416909c181097f81d0a0f7d1624e.css"
+    integrity="sha256-fzwigcf5Zc48ZIiKpFJ5MlKgQWkJwYEJf4HQoPfRYk4="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/solid.min.35fc032da8ede6681675d20a2f862fb9e1045c1d512d495fcf862c054daffef2.css"
+    integrity="sha256-NfwDLajt5mgWddIKL4YvueEEXB1RLUlfz4YsBU2v/vI="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/regular.min.3b92357925ea7284f0c6b0378396f39f470f7842ed9702f337e667c4026bf837.css"
+    integrity="sha256-O5I1eSXqcoTwxrA3g5bzn0cPeELtlwLzN&#43;ZnxAJr&#43;Dc="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/brands.min.ebb1096e1976e8cc4e2532cfa050b8f30eb13b8eb06be5cee3e38eb426b838ea.css"
+    integrity="sha256-67EJbhl26MxOJTLPoFC48w6xO46wa&#43;XO4&#43;OOtCa4OOo="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+
+  <link rel="canonical" href="https://www.robsoncassiano.software/articles/kotlin-vs-java/" />
+
+  
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/anatole-header.min.f9132794301a01ff16550ed66763482bd848f62243d278f5e550229a158bfd32.js"
+    integrity="sha256-&#43;RMnlDAaAf8WVQ7WZ2NIK9hI9iJD0nj15VAimhWL/TI="
+    crossorigin="anonymous"
+  ></script>
+
+  
+    
+    
+    <script
+      type="text/javascript"
+      src="/js/anatole-theme-switcher.min.d6d329d93844b162e8bed1e915619625ca91687952177552b9b3e211014a2957.js"
+      integrity="sha256-1tMp2ThEsWLovtHpFWGWJcqRaHlSF3VSubPiEQFKKVc="
+      crossorigin="anonymous"
+    ></script>
+  
+
+  
+
+
+  
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Kotlin vs Java: Como carros automáticos vs Carros Manuais"/>
+<meta name="twitter:description" content="Com Kotlin, você pode realizar mais, em menos tempo."/>
+
+
+
+  
+  <meta property="og:title" content="Kotlin vs Java: Como carros automáticos vs Carros Manuais" />
+<meta property="og:description" content="Com Kotlin, você pode realizar mais, em menos tempo." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.robsoncassiano.software/articles/kotlin-vs-java/" /><meta property="article:section" content="articles" />
+<meta property="article:published_time" content="2020-03-09T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-03-09T00:00:00+00:00" /><meta property="og:site_name" content="Robson Cassiano" />
+
+
+
+  
+  
+  
+  
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "articleSection": "articles",
+        "name": "Kotlin vs Java: Como carros automáticos vs Carros Manuais",
+        "headline": "Kotlin vs Java: Como carros automáticos vs Carros Manuais",
+        "alternativeHeadline": "",
+        "description": "
+      Com Kotlin, você pode realizar mais, em menos tempo.
+
+
+    ",
+        "inLanguage": "pt-br",
+        "isFamilyFriendly": "true",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/www.robsoncassiano.software\/articles\/kotlin-vs-java\/"
+        },
+        "author" : {
+            "@type": "Person",
+            "name": "Robson Cassiano"
+        },
+        "creator" : {
+            "@type": "Person",
+            "name": "Robson Cassiano"
+        },
+        "accountablePerson" : {
+            "@type": "Person",
+            "name": "Robson Cassiano"
+        },
+        "copyrightHolder" : {
+            "@type": "Person",
+            "name": "Robson Cassiano"
+        },
+        "copyrightYear" : "2020",
+        "dateCreated": "2020-03-09T00:00:00.00Z",
+        "datePublished": "2020-03-09T00:00:00.00Z",
+        "dateModified": "2020-03-09T00:00:00.00Z",
+        "publisher":{
+            "@type":"Organization",
+            "name": "Robson Cassiano",
+            "url": "https://www.robsoncassiano.software/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/www.robsoncassiano.software\/favicon-32x32.png",
+                "width":"32",
+                "height":"32"
+            }
+        },
+        "image": 
+      [
+      ]
+
+    ,
+        "url" : "https:\/\/www.robsoncassiano.software\/articles\/kotlin-vs-java\/",
+        "wordCount" : "691",
+        "genre" : [ ],
+        "keywords" : [ 
+      
+      "kotlin"
+
+    
+      
+        ,
+
+      
+      "java"
+
+    
+      
+        ,
+
+      
+      "programming"
+
+    ]
+    }
+  </script>
+
+
+</head>
+<body class="body">
+    <div class="wrapper">
+      <aside
+        
+          class="wrapper__sidebar"
+        
+      ><div
+  class="sidebar
+    animated fadeInDown
+  "
+>
+  <div class="sidebar__content">
+    <div class="sidebar__introduction">
+      <img
+        class="sidebar__introduction-profileimage"
+        src="/images/robson-cassiano-profile.webp"
+        alt="profile picture"
+      />
+      
+        <div class="sidebar__introduction-title">
+          <a href="/">Robson Cassiano</a>
+        </div>
+      
+      <div class="sidebar__introduction-description">
+        <p>Sobre os ombros de gigantes</p>
+      </div>
+    </div>
+    <ul class="sidebar__list">
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://linkedin.com/robson-cassiano-software"
+            target="_blank"
+            rel="noopener me"
+            aria-label="Linkedin"
+            title="Linkedin"
+          >
+            <i class="fab fa-linkedin fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="robson.cassiano@pm.me"
+            target="_blank"
+            rel="noopener me"
+            aria-label="e-mail"
+            title="e-mail"
+          >
+            <i class="fas fa-envelope fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+    </ul>
+  </div><footer class="footer footer__sidebar">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        Robson Cassiano
+        2023
+      
+    </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script></div>
+</aside>
+      <main
+        
+          class="wrapper__main"
+        
+      >
+        <header class="header"><div
+  class="
+    animated fadeInDown
+  "
+>
+  <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+  </a>
+  <nav class="nav">
+    <ul class="nav__list" id="navMenu">
+      
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/"
+              
+              title=""
+              >Home</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/articles/"
+              
+              title=""
+              >Artigos</a
+            >
+          </li>
+        
+
+      
+        
+        
+
+          <li class="nav__list-item">
+            <div class="optionswitch">
+              <input class="optionswitch__picker" type="checkbox" id="2" hidden />
+
+              
+              
+                
+
+              
+                
+
+              
+
+
+              <label class="optionswitch__label" for="2"
+                >Cursos <i class="fa fa-angle-down" aria-hidden="true"></i
+              ></label>
+
+              <div class="optionswitch__triangle"></div>
+              <ul class="optionswitch__list">
+                
+                  <li class="optionswitch__list-item">
+                    
+                    <a
+                      href="/java/"
+                      
+                      title=""
+                      >Java</a
+                    >
+                  </li>
+                
+                  <li class="optionswitch__list-item">
+                    
+                    <a
+                      href="/kotlin/"
+                      
+                      title=""
+                      >Kotlin</a
+                    >
+                  </li>
+                
+              </ul>
+            </div>
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/about/"
+              
+              title=""
+              >Sobre mim</a
+            >
+          </li>
+        
+
+      
+    </ul>
+    <ul class="nav__list nav__list--end">
+      
+        <li class="nav__list-item">
+          <div class="optionswitch">
+            <input class="optionswitch__picker" type="checkbox" id="languagepicker" hidden />
+            <label class="optionswitch__label" for="languagepicker"
+              >BR <i class="fa fa-angle-down" aria-hidden="true"></i
+            ></label>
+            <div class="optionswitch__triangle"></div>
+            <ul class="optionswitch__list">
+              
+                <li class="optionswitch__list-item">
+                  <a href="/en/articles/kotlin-vs-java/" title="US"
+                    ><span
+                      
+                      aria-label="US"
+                      >US</span
+                    >
+                  </a>
+                </li>
+              
+            </ul>
+          </div>
+        </li>
+      
+      
+        <li class="nav__list-item">
+          <div class="themeswitch">
+            <a title="Switch Theme">
+              <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+          </div>
+        </li>
+      
+    </ul>
+  </nav>
+</div>
+</header>
+  <div
+    class="post 
+      animated fadeInDown
+    "
+  >
+    
+    <div class="post__content">
+      <h1>Kotlin vs Java: Como Carros Automáticos vs Carros Manuais</h1>
+      <p>(~5 minutos)</p>
+<p>Kotlin e Java, duas linguagens de programação robustas, podem ser comparadas a carros automáticos e manuais, respectivamente. Se Java é como um carro manual, que exige controle meticuloso de todos os aspectos, Kotlin é mais semelhante a um carro automático, fornecendo muitas conveniências e eficiências embutidas.</p>
+<h2 id="java-o-carro-manual">Java: O Carro Manual</h2>
+<p>Java, como um carro manual, dá aos programadores um alto grau de controle e visibilidade detalhada do funcionamento de seu código. A sintaxe verbosa do Java exige que cada detalhe seja explicitamente mencionado, muito como um motorista tem que mudar manualmente as marchas em um carro manual. Isso pode fornecer uma compreensão profunda e controle detalhado, mas também significa mais trabalho para o programador.</p>
+<h2 id="kotlin-o-carro-automático">Kotlin: O Carro Automático</h2>
+<p>Kotlin, por outro lado, é mais como um carro automático. Ele cuida de muitas tarefas para você, oferecendo uma sintaxe mais concisa e recursos modernos embutidos, que aumentam a produtividade e a legibilidade. Assim como um carro automático muda as marchas automaticamente com base na velocidade e nas condições de direção, Kotlin gerencia muitas tarefas de programação, reduzindo o código de preenchimento automático que um programador precisa escrever.</p>
+<p>Tanto Kotlin quanto Java têm suas forças e são escolhidos com base em fatores como requisitos do projeto, habilidades da equipe e preferência pessoal. Enquanto a abordagem &lsquo;carro manual&rsquo; do Java dá aos desenvolvedores controle e precisão, o estilo &lsquo;carro automático&rsquo; do Kotlin proporciona facilidade de uso e eficiência. A escolha entre eles recai sobre o que você valoriza mais em sua jornada de desenvolvimento: controle ou conveniência.</p>
+<h2 id="principais-diferenças-entre-kotlin-e-java">Principais Diferenças Entre Kotlin e Java</h2>
+<ol>
+<li>
+<p><strong>Sintaxe:</strong> Kotlin tem uma sintaxe mais concisa comparada ao Java. Onde Java exige ponto-e-vírgula para terminar uma declaração, Kotlin não tem tal requisito. Da mesma forma, as declarações de tipo em Kotlin são mais simples, aumentando a legibilidade do código e reduzindo a chance de erros.</p>
+</li>
+<li>
+<p><strong>Segurança Null:</strong> Kotlin oferece segurança nula inerente, uma característica que falta no Java. Em Kotlin, a nulidade é explícita no sistema de tipos, reduzindo a probabilidade de uma Exceção de Ponteiro Nulo - o infame &rsquo;erro de bilhão de dólares&rsquo;. Java, no entanto, permite valores nulos por padrão, o que pode levar a erros nulos frequentes em tempo de execução, se não forem devidamente tratados.</p>
+</li>
+<li>
+<p><strong>Funções de Extensão:</strong> Kotlin suporta funções e propriedades de extensão, permitindo que você estenda uma classe com novas funcionalidades sem ter que herdar da classe. Este recurso pode ajudar na escrita de códigos mais limpos e legíveis. Java carece deste recurso, e a extensão de funcionalidades muitas vezes requer a criação de uma nova classe que herda da classe base.</p>
+</li>
+</ol>
+<h2 id="preferência-dos-desenvolvedores-kotlin-vs-java">Preferência dos Desenvolvedores: Kotlin vs Java</h2>
+<p>De acordo com a Pesquisa de Desenvolvedores do Stack Overflow 2020, Kotlin figura entre as linguagens mais amadas, com 62,9% dos desenvolvedores expressando interesse em continuar a desenvolver com ela. Em contraste, Java se mostra menos favorecido, com apenas 44,1% dos desenvolvedores querendo continuar a usar. Isso indica uma preferência crescente pelo Kotlin entre os desenvolvedores globalmente.</p>
+<h2 id="kotlin-vantagens-sobre-java">Kotlin: Vantagens Sobre Java</h2>
+<p>Kotlin oferece várias vantagens sobre Java que podem melhorar drasticamente a experiência de codificação. A sintaxe concisa do Kotlin facilita o código mais legível e sustentável, economizando tempo valioso e reduzindo a probabilidade de erros.</p>
+<p>A segurança nula inerente em Kotlin reduz consideravelmente o risco de falhas em tempo de execução causadas por exceções de ponteiro nulo, uma armadilha comum em Java. Por último, o suporte do Kotlin para funções de extensão melhora a legibilidade e a organização do código, evitando hierarquias de classe desnecessárias que podem complicar o código base.</p>
+<h2 id="conclusão">Conclusão</h2>
+<p>Em uma indústria dinâmica e acelerada onde eficiência, confiabilidade e sustentabilidade são primordiais, adotar Kotlin pode se provar uma jogada estratégica. Não se trata apenas de pular no vagão da banda, mas de escolher uma linguagem que possa melhorar sua produtividade, reduzir bugs e tornar a codificação uma experiência satisfatória e agradável.</p>
+<p>Assim, mudar para Kotlin do Java parece ser uma consideração válida para qualquer desenvolvedor ou organização visando superior qualidade de código e produtividade. No mundo da programação, Kotlin é o novo Java - uma verdadeira mudança de jogo em termos de eficiência, confiabilidade e satisfação do desenvolvedor.</p>
+</div>
+    <div class="post__footer">
+      
+
+      
+        <span><a class="tag" href="/tags/kotlin/">kotlin</a><a class="tag" href="/tags/java/">java</a><a class="tag" href="/tags/programming/">programming</a></span>
+
+
+      
+    </div>
+
+    
+  </div>
+
+      </main>
+    </div><footer class="footer footer__base">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        Robson Cassiano
+        2023
+      
+    </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script></body>
+</html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kotlin on On the shoulders of giants</title>
+    <link>https://www.robsoncassiano.software/tags/kotlin/</link>
+    <description>Recent content in kotlin on On the shoulders of giants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robsoncassiano.software/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin vs Java: Como carros automáticos vs Carros Manuais</title>
+      <link>https://www.robsoncassiano.software/articles/kotlin-vs-java/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.robsoncassiano.software/articles/kotlin-vs-java/</guid>
+      
+        <description>Com Kotlin, você pode realizar mais, em menos tempo.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

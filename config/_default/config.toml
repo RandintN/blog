@@ -2,6 +2,7 @@ baseURL                = 'https://www.robsoncassiano.software/'
 defaultContentLanguage = "pt-br"
 enableRobotsTXT        = true
 languageCode           = 'pt-BR'
+summarylength          = 50
 title                  = 'On the shoulders of giants'
 theme                  = 'anatole'
 

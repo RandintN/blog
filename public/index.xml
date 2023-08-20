@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>On the shoulders of giants</title>
+    <link>https://www.robsoncassiano.software/</link>
+    <description>Recent content on On the shoulders of giants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 20 Aug 2023 10:01:11 -0300</lastBuildDate><atom:link href="https://www.robsoncassiano.software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ArticleBlah</title>
+      <link>https://www.robsoncassiano.software/articleblah/</link>
+      <pubDate>Sun, 20 Aug 2023 10:01:11 -0300</pubDate>
+      
+      <guid>https://www.robsoncassiano.software/articleblah/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://www.robsoncassiano.software/kotlin/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.robsoncassiano.software/kotlin/</guid>
+      
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+      
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://www.robsoncassiano.software/java/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.robsoncassiano.software/java/</guid>
+      
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+      
+    </item>
+    
+    <item>
+      <title>Kotlin vs Java: Como carros automáticos vs Carros Manuais</title>
+      <link>https://www.robsoncassiano.software/articles/kotlin-vs-java/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.robsoncassiano.software/articles/kotlin-vs-java/</guid>
+      
+        <description>Com Kotlin, você pode realizar mais, em menos tempo.</description>
+      
+    </item>
+    
+    <item>
+      <title>Sobre mim</title>
+      <link>https://www.robsoncassiano.software/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.robsoncassiano.software/about/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+  </channel>
+</rss>
