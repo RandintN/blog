@@ -6,8 +6,6 @@ description = "Com Kotlin, você pode realizar mais, em menos tempo."
 tags = ["kotlin", "java", "programming"]
 +++
 
-(~5 minutos)
-
 Kotlin e Java, duas linguagens de programação robustas, podem ser comparadas a carros automáticos e manuais, respectivamente. Se Java é como um carro manual, que exige controle meticuloso de todos os aspectos, Kotlin é mais semelhante a um carro automático, fornecendo muitas conveniências e eficiências embutidas.
 
 ## Java: O Carro Manual
