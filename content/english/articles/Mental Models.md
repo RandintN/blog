@@ -1,8 +1,8 @@
 +++
 author = "Robson Cassiano"
-title = "Take advantage of how the world works by understanding mental models"
+title = "Take advantage of how the world works"
 date = "2018-05-23"
-description = "Take advantage of how the world works by understanding mental models"
+description = "Take advantage of how the world works"
 tags = ["models"]
 +++
 
