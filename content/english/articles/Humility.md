@@ -15,9 +15,9 @@ In an era where the pursuit of status and appearances often takes precedence, th
 - **Cultivating the Mind's Soil:** To cultivate humility is to prepare the soil of our minds to be receptive to fruitful ideas and teachings. It's about being aware of our own biases and preconceptions and allowing ourselves to learn and grow from every experience. Embracing humility is sowing the seeds of good in the fertile soil of our minds, understanding that like the humus, it's a silent, enriching presence that fosters growth and encourages flourishing.
 
 False Humility:
-Flat Earth Theory: Imagine someone claiming that the Earth is flat. If we were to accept this idea out of humility, ignoring the extensive body of scientific evidence that proves otherwise, we would compromise the pursuit of truth and the knowledge accumulated over centuries. Humility here means recognizing that science and observation show us that the Earth is, in fact, spherical.
+**Flat Earth Theory:** Imagine someone claiming that the Earth is flat. If we were to accept this idea out of humility, ignoring the extensive body of scientific evidence that proves otherwise, we would compromise the pursuit of truth and the knowledge accumulated over centuries. Humility here means recognizing that science and observation show us that the Earth is, in fact, spherical.
 
-Fake News and Misinformation: In a scenario of misinformation, accepting unfounded ideas just because we see them on the national news or mainstream media is not about humility but rather naivety. Humility involves admitting that not everyone has accurate information and being willing to question and research before adopting an idea as true.
+**Fake News and Misinformation:** In a scenario of misinformation, accepting unfounded ideas just because we see them on the national news or mainstream media is not about humility but rather naivety. Humility involves admitting that not everyone has accurate information and being willing to question and research before adopting an idea as true.
 
 Example: The Workplace
 
