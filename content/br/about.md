@@ -20,6 +20,6 @@ Também sou um Engenheiro de Software experiente e amante da filosofia, especial
 
 Sei falar em Português, Inglês e Japonês e estudo Latim e Grego Antigo.
 
-Tenho uma carreira variada que abrange múltiplos campos de especialização, não gosto de ser alienado e trabalhar/fazer apenas uma coisa.
+Tenho uma carreira variada que abrange múltiplos campos de especialização pois não gosto de ser alienado e trabalhar/fazer apenas uma coisa.
 
 O tipo da minha personalidade é INTJ-A.
