@@ -23,9 +23,9 @@ Example: The Workplace
 
 Imagine two different situations in a workplace:
 
-Humility: An employee is humble in recognizing their own abilities and limitations. They are willing to learn from more experienced colleagues and accept constructive feedback. They share their ideas respectfully and attentively listen to others' opinions. Humility in this context involves self-awareness and a willingness to grow and collaborate.
+**Humility**: An employee is humble in recognizing their own abilities and limitations. They are willing to learn from more experienced colleagues and accept constructive feedback. They share their ideas respectfully and attentively listen to others' opinions. Humility in this context involves self-awareness and a willingness to grow and collaborate.
 
-Subservience: An employee is subservient when they excessively submit to others without questioning or contributing their own ideas. They might agree with everything, even if they disagree internally, to avoid conflict or please superiors. Subservience is distinct from humility and results in a lack of voice and individuality, often harming team effectiveness.
+**Subservience**: An employee is subservient when they excessively submit to others without questioning or contributing their own ideas. They might agree with everything, even if they disagree internally, to avoid conflict or please superiors. Subservience is distinct from humility and results in a lack of voice and individuality, often harming team effectiveness.
 
 Humility, by refusing passive acceptance of wrong or false ideas, promotes a commitment to seeking truth, continuous learning, and defending ethical principles. This doesn't mean closing ourselves off to different perspectives but rather discerning wisely which ideas deserve our consideration and which should be rejected due to lack of solid foundation.
 

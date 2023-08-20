@@ -23,9 +23,9 @@ Exemplo: O Local de Trabalho
 
 Imagine duas situações diferentes em um ambiente de trabalho:
 
-Humildade: Um funcionário é humilde ao reconhecer suas próprias habilidades e limitações. Ele está disposto a aprender com colegas mais experientes e aceita feedback construtivo. Ele compartilha suas ideias de forma respeitosa e ouve atentamente as opiniões dos outros. A humildade nesse contexto envolve autoconhecimento e a disposição de crescer e colaborar.
+**Humildade**: Um funcionário é humilde ao reconhecer suas próprias habilidades e limitações. Ele está disposto a aprender com colegas mais experientes e aceita feedback construtivo. Ele compartilha suas ideias de forma respeitosa e ouve atentamente as opiniões dos outros. A humildade nesse contexto envolve autoconhecimento e a disposição de crescer e colaborar.
 
-Subserviência: Um funcionário é subserviente quando se submete excessivamente aos outros sem questionar ou contribuir com suas próprias ideias. Ele pode concordar com tudo, mesmo que discorde internamente, para evitar conflitos ou agradar aos superiores. A subserviência é totalmente diferente da humildade e resulta em falta de voz e individualidade, frequentemente prejudicando a eficácia da equipe.
+**Subserviência**: Um funcionário é subserviente quando se submete excessivamente aos outros sem questionar ou contribuir com suas próprias ideias. Ele pode concordar com tudo, mesmo que discorde internamente, para evitar conflitos ou agradar aos superiores. A subserviência é totalmente diferente da humildade e resulta em falta de voz e individualidade, frequentemente prejudicando a eficácia da equipe.
 
 A humildade, ao recusar a aceitação passiva de ideias erradas ou falsas, promove um compromisso com a busca da verdade, o aprendizado constante e a defesa de princípios éticos. Isso não significa fechar-se a perspectivas diferentes, mas sim discernir com sabedoria quais ideias merecem nossa consideração e quais devem ser rejeitadas por falta de fundamento sólido.
 
