@@ -1,12 +1,10 @@
 +++
 author = "Robson Cassiano"
-title = "Aforismos: Uma Jornada ao Coração da Sabedoria Humana"
+title = "Take advantage of how the world works by understanding mental models"
 date = "2018-05-23"
-description = "Aforismos: Uma Jornada ao Coração da Sabedoria Humana"
+description = "Take advantage of how the world works by understanding mental models"
 tags = ["models"]
 +++
-
-# Take advantage of how the world works by understanding mental models.
 
 Mental models are the underlying ideas of how something works. They are not just useful for understanding a given situation better, they also help us make decisions and act on them in a way that will give us the best possible outcome. By understanding mental models, we can develop better strategies to solve problems and come up with creative solutions. We can also use them.
 

@@ -6,8 +6,6 @@ description = "Tire vantagem da forma como o mundo funciona"
 tags = ["models"]
 +++
 
-### Tire vantagem da forma como o mundo funciona.
-
 Os modelos mentais são as ideias subjacentes de como algo funciona. Eles não são apenas úteis para entender melhor uma determinada situação, mas também nos ajudam a tomar decisões e agir de forma a obter o melhor resultado possível.
 
 Ao entender os modelos mentais, podemos desenvolver melhores estratégias para resolver problemas e encontrar soluções criativas.
