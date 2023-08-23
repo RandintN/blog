@@ -10,7 +10,7 @@
   <title>
     Robson Cassiano
         |
-        On the shoulders of giants
+        The Need to Delete Old and Unnecessary Code from Code Bases: An Analogy with Diogenes Syndrome
       
 
     
@@ -22,7 +22,7 @@
   <meta name="author" content="Robson Cassiano" />
   <meta
     name="description"
-    content="On the shoulders of giants"
+    content="The Need to Delete Old and Unnecessary Code from Code Bases: An Analogy with Diogenes Syndrome"
   />
   
   
@@ -84,10 +84,9 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
 
-  <link rel="canonical" href="https://www.robsoncassiano.software/en/" />
+  <link rel="canonical" href="https://www.robsoncassiano.software/en/articles/realcleancode/" />
 
   
-  <link rel="alternate" type="application/rss+xml" href="/en/index.xml" title="On the shoulders of giants" />
   
   
   
@@ -114,29 +113,95 @@
 
   
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="On the shoulders of giants"/>
-<meta name="twitter:description" content="On the shoulders of giants"/>
+<meta name="twitter:title" content="The Need to Delete Old and Unnecessary Code from Code Bases: An Analogy with Diogenes Syndrome"/>
+<meta name="twitter:description" content="The Need to Delete Old and Unnecessary Code from Code Bases: An Analogy with Diogenes Syndrome"/>
 
 
 
   
-  <meta property="og:title" content="On the shoulders of giants" />
-<meta property="og:description" content="On the shoulders of giants" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.robsoncassiano.software/en/" /><meta property="og:site_name" content="Robson Cassiano" />
+  <meta property="og:title" content="The Need to Delete Old and Unnecessary Code from Code Bases: An Analogy with Diogenes Syndrome" />
+<meta property="og:description" content="The Need to Delete Old and Unnecessary Code from Code Bases: An Analogy with Diogenes Syndrome" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.robsoncassiano.software/en/articles/realcleancode/" /><meta property="article:section" content="articles" />
+<meta property="article:published_time" content="2015-04-10T00:00:00+00:00" />
+<meta property="article:modified_time" content="2015-04-10T00:00:00+00:00" /><meta property="og:site_name" content="Robson Cassiano" />
 
 
 
+  
+  
+  
   
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
-      "@type": "WebSite",
-      "name": "On the shoulders of giants",
-      "url": "https:\/\/www.robsoncassiano.software\/",
-      "description": "On the shoulders of giants",
-      "thumbnailUrl": "https:\/\/www.robsoncassiano.software\/",
-      "license": ""
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "articleSection": "articles",
+        "name": "The Need to Delete Old and Unnecessary Code from Code Bases: An Analogy with Diogenes Syndrome",
+        "headline": "The Need to Delete Old and Unnecessary Code from Code Bases: An Analogy with Diogenes Syndrome",
+        "alternativeHeadline": "",
+        "description": "
+      The Need to Delete Old and Unnecessary Code from Code Bases: An Analogy with Diogenes Syndrome
+
+
+    ",
+        "inLanguage": "en",
+        "isFamilyFriendly": "true",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/www.robsoncassiano.software\/en\/articles\/realcleancode\/"
+        },
+        "author" : {
+            "@type": "Person",
+            "name": "Robson Cassiano"
+        },
+        "creator" : {
+            "@type": "Person",
+            "name": "Robson Cassiano"
+        },
+        "accountablePerson" : {
+            "@type": "Person",
+            "name": "Robson Cassiano"
+        },
+        "copyrightHolder" : {
+            "@type": "Person",
+            "name": "Robson Cassiano"
+        },
+        "copyrightYear" : "2015",
+        "dateCreated": "2015-04-10T00:00:00.00Z",
+        "datePublished": "2015-04-10T00:00:00.00Z",
+        "dateModified": "2015-04-10T00:00:00.00Z",
+        "publisher":{
+            "@type":"Organization",
+            "name": "Robson Cassiano",
+            "url": "https://www.robsoncassiano.software/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/www.robsoncassiano.software\/favicon-32x32.png",
+                "width":"32",
+                "height":"32"
+            }
+        },
+        "image": 
+      [
+      ]
+
+    ,
+        "url" : "https:\/\/www.robsoncassiano.software\/en\/articles\/realcleancode\/",
+        "wordCount" : "443",
+        "genre" : [ ],
+        "keywords" : [ 
+      
+      "philosophy"
+
+    
+      
+        ,
+
+      
+      "aphorisms"
+
+    ]
     }
   </script>
 
@@ -161,9 +226,9 @@
         alt="profile picture"
       />
       
-        <h1 class="sidebar__introduction-title">
+        <div class="sidebar__introduction-title">
           <a href="/en">Robson Cassiano</a>
-        </h1>
+        </div>
       
       <div class="sidebar__introduction-description">
         <p>On the shoulders of giants</p>
@@ -240,8 +305,6 @@
           <li class="nav__list-item">
             
             <a
-              
-                class="nav__link--active"
               
               href="/en/"
               
@@ -345,7 +408,7 @@
             <ul class="optionswitch__list">
               
                 <li class="optionswitch__list-item">
-                  <a href="/" title="BR"
+                  <a href="/articles/realcleancode/" title="BR"
                     ><span
                       
                       aria-label="BR"
@@ -376,192 +439,85 @@
       animated fadeInDown
     "
   >
+    
     <div class="post__content">
+      <h1>The Need to Delete Old and Unnecessary Code From Code Bases: An Analogy With Diogenes Syndrome</h1>
+      <p>In the continuous pursuit of efficient software development and maintenance, cleaning and organizing code bases become crucial. Just as in our lives, accumulating seemingly worthless objects can lead to a cluttered and unproductive environment, in code, the accumulation of unused or obsolete code snippets can lead to similar issues. In this article, we explore the importance of deleting or removing old and unnecessary code, drawing parallels with Diogenes Syndrome.</p>
+<h3 id="code-accumulation-and-the-analogy-with-diogenes-syndrome"><strong>Code Accumulation and the Analogy with Diogenes Syndrome</strong></h3>
+<p>Diogenes Syndrome is a disorder characterized by compulsive hoarding of objects, often seemingly without value, resulting in chaotic and unsanitary living conditions. This syndrome can be likened to the tendency to accumulate unused code in a codebase. Just as object accumulation can overwhelm a physical space, unnecessary code can overload a codebase, making it hard to understand, maintain, and update.</p>
+<h3 id="reasons-for-code-accumulation"><strong>Reasons for Code Accumulation</strong></h3>
+<p>Often, code is accumulated for legitimate reasons such as testing, prototyping, or experimentation. However, when these code snippets are not removed after use, they can turn into a burden, making it difficult to understand the system and increasing complexity.</p>
+<h3 id="negative-impacts-of-code-accumulation"><strong>Negative Impacts of Code Accumulation</strong></h3>
+<ol>
+<li>
+<p><strong>Increased Complexity:</strong> Unused code adds unnecessary complexity to the codebase. This can make it harder for developers to grasp the program&rsquo;s flow and identify issues.</p>
+</li>
+<li>
+<p><strong>Complicated Maintenance:</strong> As the codebase grows, maintenance becomes more challenging. Unused code needs to be tracked and considered during updates, increasing the risk of errors.</p>
+</li>
+<li>
+<p><strong>Efficiency Decrease:</strong> Time spent navigating through unused code or trying to understand its purpose reduces development efficiency.</p>
+</li>
+<li>
+<p><strong>Potential for Errors:</strong> Obsolete code may contain undetected bugs that can surface later, affecting software stability.</p>
+</li>
+</ol>
+<h3 id="benefits-of-deleting-old-code"><strong>Benefits of Deleting Old Code</strong></h3>
+<ol>
+<li>
+<p><strong>Enhanced Readability:</strong> A lean codebase is more readable and facilitates understanding of the system&rsquo;s functionalities.</p>
+</li>
+<li>
+<p><strong>Streamlined Maintenance:</strong> With less code to consider, maintenance becomes more efficient and less error-prone.</p>
+</li>
+<li>
+<p><strong>Better Scalability:</strong> Organized codebases are easier to expand and adapt to new requirements.</p>
+</li>
+<li>
+<p><strong>Risk Reduction:</strong> Removing obsolete code lowers the likelihood of unexpected bugs and increases stability.</p>
+</li>
+</ol>
+<h3 id="process-of-code-removal"><strong>Process of Code Removal</strong></h3>
+<p>When removing old code, it&rsquo;s important to follow best practices, including:</p>
+<ol>
+<li>
+<p><strong>Evaluation:</strong> Identify unused code and determine its current relevance.</p>
+</li>
+<li>
+<p><strong>Testing:</strong> Ensure that removal doesn&rsquo;t affect other parts of the system.</p>
+</li>
+<li>
+<p><strong>Documentation:</strong> Update documentation to reflect the changes.</p>
+</li>
+<li>
+<p><strong>Version Control:</strong> Use version control systems to track and document changes.</p>
+</li>
+</ol>
+<h3 id="conclusion"><strong>Conclusion</strong></h3>
+<p>Similar to Diogenes Syndrome leading to the hoarding of valueless objects, the accumulation of old and unnecessary code can hinder efficiency, readability, and maintenance of a codebase. Thoughtful removal of unused code snippets is essential to maintaining a healthy and productive development environment. So, while reviewing and cleaning your codebase, remember that &ldquo;less is more&rdquo; and prioritize quality over quantity.</p>
+
+
+  <h3>Related Posts</h3>
+  <ul>
+    
+      <li><a href="/en/articles/aphorisms/">Aphorisms: Unveiling the Timeless Power of Concise Wisdom</a></li>
+    
+      <li><a href="/en/articles/humility/">Humility: A Fertile Soil for Good</a></li>
+    
+  </ul>
+
+</div>
+    <div class="post__footer">
+      
+
+      
+        <span><a class="tag" href="/en/tags/philosophy/">philosophy</a><a class="tag" href="/en/tags/aphorisms/">aphorisms</a></span>
+
+
       
     </div>
 
     
-  </div>
-
-  
-
-  
-  
-    <div
-      class="post 
-        animated fadeInDown
-      "
-    >
-      
-      <div class="post__content">
-        <h3><a href="/en/articles/aphorisms/">APHORISMS: UNVEILING THE TIMELESS POWER OF CONCISE WISDOM</a></h3>
-        
-          <p>Throughout the ebbing tides of human existence, there have been few literary treasures as remarkable and enigmatic as aphorisms. These succinct nuggets of distilled wisdom, often nestled within the pages of books, have withstood the test of time, perpetually captivating the hearts and minds of those who dare to venture into their depths.</p>
-        
-        </div>
-
-      
-      <div class="post__footer">
-        <em class="fas fa-calendar-day"></em>
-        <span class="post__footer-date"
-          >
-            
-              Tue, Mar 9, 2021
-            
-
-          </span
-        >
-        
-
-        
-          <span><a class="tag" href="/en/tags/philosophy/">philosophy</a><a class="tag" href="/en/tags/aphorisms/">aphorisms</a></span>
-
-
-        
-      </div>
-    </div>
-  
-    <div
-      class="post 
-        animated fadeInDown
-      "
-    >
-      
-      <div class="post__content">
-        <h3><a href="/en/articles/humility/">HUMILITY: A FERTILE SOIL FOR GOOD</a></h3>
-        
-          <p>In an era where the pursuit of status and appearances often takes precedence, the timeless virtue of humility stands as a beacon of grace, simplicity, and grounded wisdom. The term ‘humility’ finds its roots in the Latin word ‘humus,’ meaning ’earth’ or ‘soil.’ Just as the humus serves as the nourishing bed from which life springs, humility too can be seen as a fertile ground from which good ideas and teachings sprout.</p>
-        
-        </div>
-
-      
-      <div class="post__footer">
-        <em class="fas fa-calendar-day"></em>
-        <span class="post__footer-date"
-          >
-            
-              Tue, May 19, 2020
-            
-
-          </span
-        >
-        
-
-        
-          <span><a class="tag" href="/en/tags/philosophy/">philosophy</a></span>
-
-
-        
-      </div>
-    </div>
-  
-    <div
-      class="post 
-        animated fadeInDown
-      "
-    >
-      
-      <div class="post__content">
-        <h3><a href="/en/articles/kotlin-vs-java/">KOTLIN VS JAVA: AUTOMATIC CARS VS MANUAL CARS</a></h3>
-        
-          <p>(~5 minutes)
-Kotlin and Java, two stalwart programming languages, can be analogized to automatic and manual cars respectively. If Java is like a manual car, requiring meticulous control over every aspect, Kotlin is more akin to an automatic car, providing many conveniences and efficiencies out of the box.
-Java: The Manual Car Java, like a manual car, gives programmers a high degree of control and fine-grained visibility into the workings of their code.</p>
-        
-        </div>
-
-      
-      <div class="post__footer">
-        <em class="fas fa-calendar-day"></em>
-        <span class="post__footer-date"
-          >
-            
-              Mon, Mar 9, 2020
-            
-
-          </span
-        >
-        
-
-        
-          <span><a class="tag" href="/en/tags/kotlin/">kotlin</a><a class="tag" href="/en/tags/java/">java</a><a class="tag" href="/en/tags/programming/">programming</a></span>
-
-
-        
-      </div>
-    </div>
-  
-    <div
-      class="post 
-        animated fadeInDown
-      "
-    >
-      
-      <div class="post__content">
-        <h3><a href="/en/articles/mental-models/">TAKE ADVANTAGE OF HOW THE WORLD WORKS</a></h3>
-        
-          <p>Mental models are the underlying ideas of how something works. They are not just useful for understanding a given situation better, they also help us make decisions and act on them in a way that will give us the best possible outcome. By understanding mental models, we can develop better strategies to solve problems and come up with creative solutions.</p>
-        
-        </div>
-
-      
-      <div class="post__footer">
-        <em class="fas fa-calendar-day"></em>
-        <span class="post__footer-date"
-          >
-            
-              Wed, May 23, 2018
-            
-
-          </span
-        >
-        
-
-        
-          <span><a class="tag" href="/en/tags/models/">models</a></span>
-
-
-        
-      </div>
-    </div>
-  
-    <div
-      class="post 
-        animated fadeInDown
-      "
-    >
-      
-      <div class="post__content">
-        <h3><a href="/en/articles/realcleancode/">THE NEED TO DELETE OLD AND UNNECESSARY CODE FROM CODE BASES: AN ANALOGY WITH DIOGENES SYNDROME</a></h3>
-        
-          <p>In the continuous pursuit of efficient software development and maintenance, cleaning and organizing code bases become crucial. Just as in our lives, accumulating seemingly worthless objects can lead to a cluttered and unproductive environment, in code, the accumulation of unused or obsolete code snippets can lead to similar issues. In this article, we explore the importance of deleting or removing old and unnecessary code, drawing parallels with Diogenes Syndrome.</p>
-        
-        </div>
-
-      
-      <div class="post__footer">
-        <em class="fas fa-calendar-day"></em>
-        <span class="post__footer-date"
-          >
-            
-              Fri, Apr 10, 2015
-            
-
-          </span
-        >
-        
-
-        
-          <span><a class="tag" href="/en/tags/philosophy/">philosophy</a><a class="tag" href="/en/tags/aphorisms/">aphorisms</a></span>
-
-
-        
-      </div>
-    </div>
-  
-  <div class="pagination">
-    
-
   </div>
 
       </main>
