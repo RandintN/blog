@@ -13,3 +13,8 @@ url   = "https://www.linkedin.com/in/robsoncassiano-software"
 icon  = "fas fa-envelope"
 title = "e-mail"
 url   = "robson.cassiano@pm.me"
+
+[[socialIcons]]
+icon  = "fas fa-instagram"
+title = "Instagram"
+url   = "robsoncassiano.software"
