@@ -23,3 +23,8 @@ url   = "https://www.instagram.com/robsoncassiano.software/"
 icon  = "fa-brands fa-youtube"
 title = "Youtube"
 url   = "https://www.youtube.com/@RobsonCassianoSoftware"
+
+[[socialIcons]]
+icon  = "fa-brands fa-x-twitter"
+title = "X"
+url   = "https://twitter.com/RandintN"
