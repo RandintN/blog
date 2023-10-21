@@ -8,6 +8,9 @@ tags = ["java", "linux"]
 
 ![SDKMAN](https://sdkman.io/assets//img/logo.png)
 
+{{< youtube cOBMViq3KnM >}}
+
+
 Se você é um desenvolvedor de software que trabalha com Java e usa um ambiente Linux, o SDKMAN é uma ferramenta essencial que simplificará o processo de instalação e gerenciamento das versões do Java Development Kit (JDK). Neste artigo, exploraremos os benefícios do SDKMAN e forneceremos instruções básicas para instalá-lo e configurá-lo no seu sistema.
 
 ## Por que usar o SDKMAN?
