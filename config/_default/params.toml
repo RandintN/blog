@@ -18,3 +18,8 @@ url   = "robson.cassiano@pm.me"
 icon  = "fa-brands fa-instagram"
 title = "Instagram"
 url   = "https://www.instagram.com/robsoncassiano.software/"
+
+[[socialIcons]]
+icon  = "fa-brands fa-youtube"
+title = "Youtube"
+url   = "https://www.youtube.com/@RobsonCassianoSoftware"
