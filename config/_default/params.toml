@@ -15,6 +15,6 @@ title = "e-mail"
 url   = "robson.cassiano@pm.me"
 
 [[socialIcons]]
-icon  = "fas fa-instagram"
+icon  = "fa-brands fa-instagram"
 title = "Instagram"
 url   = "robsoncassiano.software"
