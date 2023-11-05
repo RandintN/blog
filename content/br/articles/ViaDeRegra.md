@@ -7,7 +7,7 @@ tags = ["philosophy", "aphorisms", "ViaDeRegra"]
 +++
 #ViaDeRegra
 
-Citar situações fora da curva, de exceção, que raramente ocorremente ou que são irrelevantes é burrice.
+Citar situações fora da curva, de exceção, que raramente ocorrem ou que são irrelevantes é burrice em qualquer debate ou conversa séria.
 
 # A Regra dos Números Naturais Consecutivos
 
