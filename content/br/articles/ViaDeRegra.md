@@ -3,8 +3,10 @@ author = "Robson Cassiano"
 title = "A Exceção confirma a regra"
 date = "2022-04-10"
 description = "Citar situações fora da curva, de exceção, que raramente ocorremente ou que são irrelevantes é burrice."
-tags = ["philosophy", "aphorisms"]
+tags = ["philosophy", "aphorisms", "ViaDeRegra"]
 +++
+#ViaDeRegra
+
 Citar situações fora da curva, de exceção, que raramente ocorremente ou que são irrelevantes é burrice.
 
 # A Regra dos Números Naturais Consecutivos
