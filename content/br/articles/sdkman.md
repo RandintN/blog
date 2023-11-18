@@ -5,7 +5,6 @@ date = "2018-02-23"
 description = "Gerenciando a Instalação da JDK no Linux com SDKMAN"
 tags = ["java", "linux"]
 +++
-
 ![SDKMAN](https://sdkman.io/assets//img/logo.png)
 
 {{< youtube cOBMViq3KnM >}}
