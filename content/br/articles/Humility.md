@@ -5,7 +5,6 @@ date = "2020-05-19"
 description = "Humildade: Um Solo Fértil para o Bem"
 tags = ["philosophy"]
 +++
-
 Em uma era em que a busca por status e aparências assume a prioridade, a virtude atemporal da humildade se destaca como um farol de graça, simplicidade e sabedoria fundamentada. O termo 'humildade' tem suas raízes na palavra em latim '_humus_', que significa 'terra' ou 'solo'. Assim como o _humus_ serve como a cama nutritiva da qual a vida brota, a humildade também pode ser vista como um solo fértil a partir do qual boas ideias e ensinamentos brotam.
 
 - **Nutrindo e Enriquecendo Silenciosamente:** Assim como o humus enriquece silenciosamente a terra, promovendo o crescimento de flora e fauna exuberantes, a humildade também trabalha silenciosamente dentro de nós, aprofundando nosso entendimento e enriquecendo nossas perspectivas. Ela não busca elogios ou reconhecimento; em vez disso, é uma presença tranquila que nos fundamenta, permitindo-nos estar abertos, receptivos e aprendizes.
