@@ -16,6 +16,7 @@ As APIs REST são comumente usadas para conectar aplicações web diferentes. Po
 
 ### Recursos e URIs
 
+
 O conceito central de uma API REST é o recurso. Um recurso é um objeto ou entidade que pode ser manipulado por meio da API. Por exemplo, um recurso pode ser um produto, um usuário ou uma transação.
 
 Cada recurso é identificado por um URI (Uniform Resource Identifier). Um URI é um endereço que identifica um recurso na web. Por exemplo, o URI /produtos/1 pode identificar um produto específico.
