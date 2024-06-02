@@ -34,3 +34,10 @@ weight = 420
 identifier = "kotlin"
 url = "/kotlin/"
 parent = "courses"
+
+[[main]]
+name = "Git"
+weight = 420
+identifier = "git"
+url = "/git/"
+parent = "courses"

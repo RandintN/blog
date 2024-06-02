@@ -1,4 +1,4 @@
-title                = "Robson Cassiano"
+title                = "Robson Cassiano Blog"
 author               = "Robson Cassiano"
 profilePicture       = "images/robson-cassiano-profile.webp"
 relatedPosts = true
@@ -12,7 +12,7 @@ url   = "https://www.linkedin.com/in/robsoncassiano-software"
 [[socialIcons]]
 icon  = "fas fa-envelope"
 title = "e-mail"
-url   = "robson.cassiano@pm.me"
+url   = "falecom@robsoncassiano.software"
 
 [[socialIcons]]
 icon  = "fa-brands fa-instagram"
@@ -27,4 +27,4 @@ url   = "https://www.youtube.com/@RobsonCassianoSoftware"
 [[socialIcons]]
 icon  = "fa-brands fa-twitter"
 title = "X"
-url   = "https://twitter.com/RobsonDev"
+url   = "https://x.com/RobsonDev"

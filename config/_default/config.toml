@@ -1,4 +1,4 @@
-baseURL = 'https://www.robsoncassiano.software/'
+baseURL = 'https://blog.robsoncassiano.software'
 defaultContentLanguage = "pt-br"
 enableRobotsTXT = true
 languageCode = 'pt-BR'
@@ -10,9 +10,11 @@ theme = 'anatole'
 includeNewer = true
 threshold = 80
 toLower = true
+
 [[related.indices]]
 name = 'keywords'
 weight = 100
+
 [[related.indices]]
 name = 'tags'
 weight = 80
